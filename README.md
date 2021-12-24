@@ -1,4 +1,10 @@
---
+<p align="center">
+
+  <img src="https://github.com/Scissorboi/Scissorboi/blob/main/xuuy_gaming-20211223-0001.jpg"><br>
+
+</p>
+
+
 Scissorboi/Scissorboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # System Tweaks
